@@ -1,5 +1,3 @@
-https://mp.weixin.qq.com/s/MrWFt4jDKRQC3g4TsMde7Q
-
 不断收集整理，汇总网上面试知识点，方便面试前刷题，希望对你有帮助！有哪些方面的内容缺失，欢迎留言，后续不断补充。
 
 1-10期
@@ -254,3 +252,5 @@ https://mp.weixin.qq.com/s/MrWFt4jDKRQC3g4TsMde7Q
 - 【208期】敲黑板，也来谈如何设计一个秒杀系统（重点）
 - 【209期】架构设计&分布式&数据结构与算法面试题（2020最新版）
 - 【210期】面试官：说说常用的Redis和zk两种分布式锁的对比
+
+[JAVA面试精选](https://mp.weixin.qq.com/s/MrWFt4jDKRQC3g4TsMde7Q)
