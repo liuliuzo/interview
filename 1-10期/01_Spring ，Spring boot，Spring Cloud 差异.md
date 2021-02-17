@@ -30,6 +30,3 @@ Spring是核心，提供了基础功能；
 Spring MVC 是基于Spring的一个 MVC 框架 ；
 Spring Boot 是为简化Spring配置的快速开发整合包；
 Spring Cloud是构建在Spring Boot之上的服务治理框架。
-
-#参考自：
-[Java面试题精选](https://mp.weixin.qq.com/s/sXzaMpOrRzrNFhqLwmnNCw)

@@ -1,1 +1,5 @@
-https://mp.weixin.qq.com/s/_ftNa4PDR550c74yoJgO_Q
+分布式锁常见的三种实现方式：
+	- 数据库乐观锁；
+	- 基于Redis的分布式锁；
+	- 基于ZooKeeper的分布式锁。
+	
