@@ -1,0 +1,1 @@
+1、对于随机访问get和set，ArrayList优于LinkedList，因为LinkedList要移动指针。对于新增和删除操作add和remove，LinedList比较占优势，因为ArrayList要移动数据。
