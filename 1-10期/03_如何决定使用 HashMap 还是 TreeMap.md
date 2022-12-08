@@ -2,7 +2,6 @@
 
 #介绍
 TreeMap<K,V>的Key值是要求实现java.lang.Comparable，所以迭代的时候TreeMap默认是按照Key值升序排序的；TreeMap的实现是基于红黑树结构。适用于按自然顺序或自定义顺序遍历键（key）。
-
 HashMap<K,V>的Key值实现散列hashCode()，分布是散列的、均匀的，不支持排序；数据结构主要是桶(数组)，链表或红黑树。适用于在Map中插入、删除和定位元素。
 
 #结论
@@ -10,7 +9,6 @@ HashMap<K,V>的Key值实现散列hashCode()，分布是散列的、均匀的，�
 
 #拓展
 ##1、HashMap 和 TreeMap 的实现
-
 HashMap：基于哈希表实现。使用HashMap要求添加的键类明确定义了hashCode()和equals()[可以重写hashCode()和equals()]，为了优化HashMap空间的使用，您可以调优初始容量和负载因子。
 HashMap(): 构建一个空的哈希映像
 HashMap(Map m): 构建一个哈希映像，并且添加映像m的所有映射
