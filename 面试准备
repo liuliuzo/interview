@@ -1,10 +1,10 @@
 OK【01期】Spring，SpringMVC，SpringBoot，SpringCloud有什么区别和联系？
-【02期】你能说说Spring框架中Bean的生命周期吗？
-【03期】如何决定使用 HashMap 还是 TreeMap？
-【04期】分库分表之后，id 主键如何处理？
-【05期】消息队列中，如何保证消息的顺序性？
-【06期】单例模式有几种写法？
-【07期】Redis中是如何实现分布式锁的？
+OK【02期】你能说说Spring框架中Bean的生命周期吗？
+OK【03期】如何决定使用 HashMap 还是 TreeMap？
+OK【04期】分库分表之后，id 主键如何处理？
+OK【05期】消息队列中，如何保证消息的顺序性？
+OK【06期】单例模式有几种写法？
+OK【07期】Redis中是如何实现分布式锁的？
 【08期】说说Object类下面有几种方法呢？
 【09期】说说hashCode() 和 equals() 之间的关系？
 【10期】Redis 面试常见问答

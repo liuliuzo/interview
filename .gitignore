@@ -1,36 +1,91 @@
-HELP.md
+# Mac Crap
+.DS_Store
+
+# Project Specific
+
+# General Logging
+*.log
+*.log.*
+reports/
+screenshots/
+logs/
+ReceivedMessage/
+
+# target folder
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-/bin/
-bin/
+test-output/
+**/target/
+**/test-output/
+**/bin/
+**/classes/
+**/.sonarlint
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# General Java Builds
+classes/
 build/
-!**/src/main/**/build/
-!**/src/test/**/build/
 
-### VS Code ###
-.vscode/
-/bin/
+# Eclipse
+*.pydevproject
+.settings
+.project
+bin
+.metadata
+.factorypath
+bin/
+tmp/
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.loadpath
+.factorypath
+**/.settings
+**/.project
+**/.classpath
+**/.factorypath
+**/.sonarlint
+*.bk
+
+# IntelliJ
+.idea
+*.iml
+**/.idea
+**/.impl
+
+# UltraEdit
+*.bak
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# test file
+test_file
+test_file_name
+
+!.gitignore
+**/.gitignore
