@@ -1,6 +1,6 @@
 [JAVA面试精选](https://mp.weixin.qq.com/s/MrWFt4jDKRQC3g4TsMde7Q)
 
-不断收集整理，汇总网上面试知识点，方便面试前刷题，希望对你有帮助！有哪些方面的内容缺失，欢迎留言，后续不断补充。
+有哪些方面的内容缺失，欢迎留言，后续不断补充。
 
 JAVA面试刷题八股文
 - 【01期】Spring，SpringMVC，SpringBoot，SpringCloud有什么区别和联系？
